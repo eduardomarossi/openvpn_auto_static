@@ -8,7 +8,7 @@ openvpn_auto_static is a script that helps creating multiple clients (certs + co
 
 ## Quick Start
 
-- Copy ipp.txt (see example_ipp.txt) with desired client name and IPs to /var/log/openvpn/ipp.txt. 
+- Copy ipp.txt (see sample_ipp.txt) with desired client name and IPs to /var/log/openvpn/ipp.txt. 
 
 - Run script with sudo
 
